@@ -12,6 +12,12 @@ ul li {
     
 }
 
+ul li a {
+    display: block;
+    text-decoration: none;
+    background-color: transparent;
+}
+
 ul li:hover {
     /* display: inline-block; */
     background-color: #5aabec;
